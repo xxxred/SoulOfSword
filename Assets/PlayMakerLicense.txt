@@ -1,0 +1,46 @@
+PLAYMAKER END USER LICENSE AGREEMENT
+1.	Parties to the Agreement/ The Subject Matter of the Agreement:
+1.1	This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity, "END-USER") and Hutong Games LLC ("Hutong Games" or "Licensor") with regard to the copyrighted Software (herein referred to as "SOFTWARE PRODUCT" or "SOFTWARE") provided with this EULA. The SOFTWARE PRODUCT includes computer software, the associated media, any printed materials, and any "online" or electronic documentation. 
+1.2	By installing, copying, accessing, downloading or otherwise using the SOFTWARE, the END-USER agrees to be bound by the provisions of this EULA.
+1.3	The SOFTWARE is licensed, not sold.
+2.	License Grant. 
+2.1 	Hutong Games grants END-USER a personal, non-transferable and non-exclusive right to use the SOFTWARE provided with this EULA. END-USER may install the SOFTWARE on multiple computers for END-USER's single and individual use only. 
+2.2	Modifying, translating, renting, copying, transferring or assigning all or part of the SOFTWARE, or any rights granted hereunder, to any other persons and removing any proprietary notices, labels or marks from the SOFTWARE is strictly prohibited. 
+2.3	Trial and Educational Versions may not be used for, or distributed to any party for any commercial purpose.
+2.3 	END-USER may not make copies of the SOFTWARE, except and only to the extent that such activity is expressly permitted under mandatory statutory applicable law.
+2.4	END-USER agrees not to create derivative works based on the SOFTWARE. 
+3.	Termination
+3.1	Without prejudice to any other rights, Hutong Games may terminate this EULA if END-USER fails to comply with the terms and conditions of this EULA.
+3.2	END-USER may terminate END-USER's license at any time.
+3.3	In the event of termination of this EULA all license rights granted herein terminate and END-USER must immediately destroy any and all copies of the SOFTWARE contained on any type of media under the control of END-USER.
+4.	Reverse Engineering, Decompilation, and Disassembly
+4.1	END USER may not reverse engineer, decompile, or disassemble the SOFTWARE, except and only to the extent that such activity is expressly permitted under mandatory statutory applicable law.
+5.	Trademarks
+5.1	This EULA does not grant END-USER any rights in connection with any trademarks or service marks of Hutong Games.
+6.	Upgrades and Support
+6.1	SOFTWARE identified as upgrades replace and/or supplement the licensed SOFTWARE.
+6.2	Licensor may at its own discretion from time to time provide upgrades of the SOFTWARE to END USER without requesting further payment. Irrespective hereof END-USER is only entitled to licenses to upgrades if END-USER has entered into an Upgrade Agreement with Licensor. END-USER may use the upgraded SOFTWARE only in accordance with the terms of this EULA.
+6.3	END-USER is only entitled to support if END-USER has entered into a Support Agreement with Licensor.
+7.	Copyright
+7.1	The SOFTWARE is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties
+7.2	All title and intellectual property rights in and to the SOFTWARE (including but not limited to any software, images, photographs, animations, graphics, 3D graphics, video, audio, music, text, tutorials, and "applets" incorporated into the SOFTWARE), the accompanying printed materials, and any copies of the SOFTWARE are owned by Hutong Games. All rights not expressly granted are reserved by Hutong Games.
+8.	Disclaimer of Warranties
+8.1	END-USER EXPRESSLY UNDERSTANDS AND AGREES THAT ITS USE OF THE SOFTWARE IS AT END-USER'S SOLE RISK AND THAT THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. IN PARTICULAR, LICENSOR, ITS SUBSIDIARIES, HOLDING COMPANIES AND AFFILIATES, AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO END-USER THAT:
+(A) END-USER'S USE OF THE SOFTWARE WILL MEET END-USER'S REQUIREMENTS,
+(B) END-USER'S USE OF THE SOFTWARE WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR,
+(C) ANY INFORMATION OBTAINED BY END-USER AS A RESULT OF END-USER'S USE OF THE SOFTWARE WILL BE ACCURATE OR RELIABLE, AND
+(D) THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO END-USER AS PART OF THE SOFTWARE WILL BE CORRECTED.
+8.2	END-USER'S USE OF THE SOFTWARE IS AT END-USER'S OWN DISCRETION AND RISK AND END-USER IS SOLELY RESPONSIBLE FOR ANY DAMAGE TO END-USER'S COMPUTER SYSTEM, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
+8.3	TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES TERMS OR CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO ANY IMPLIED WARRANTIES TERMS AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE SOFTWARE.
+8.4	THE SOFTWARE IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, EMERGENCY COMMUNICATIONS, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER SUCH ACTIVITIES IN WHICH CASE THE FAILURE OF THE SOFTWARE COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
+9.	Limitation of Liability
+9.1	END-USER EXPRESSLY UNDERSTAND AND AGREE THAT LICENSOR AND ITS SUBSIDIARIES, HOLDING COMPANIES AND OTHER AFFILIATES SHALL NOT BE LIABLE TO END-USER UNDER ANY THEORY OF LIABILITY (WHETHER CONTRACT, TORT INCLUDING NEGLIGENCE OR OTHERWISE) FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY END-USER THROUGH END-USER'S USE OF THE SOFTWARE, INCLUDING ANY LOSS OF DATA, GOODWILL, BUSINESS REPUTATION OR OTHER INTANGIBLE LOSS WHETHER OR NOT LICENSOR OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+9.2	END-USER EXPRESSLY UNDERSTAND AND AGREE THAT LICENSOR, ITS SUBSIDIARIES, HOLDING COMPANIES AND AFFILIATES, AND ITS LICENSORS SHALL NOT BE LIABLE TO END-USER FOR ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY END-USER, INCLUDING BUT NOT LIMITED TO LOSS OR DAMAGE AS A RESULT OF:
+(I) ANY RELIANCE PLACED BY END-USER ON THE COMPLETENESS, ACCURACY OR EXISTENCE OF ANY ADVERTISING, OR AS A RESULT OF ANY RELATIONSHIP OR TRANSACTION BETWEEN END-USER AND LICENSOR OR ANY, DEVELOPER, ADVERTISER OR SPONSOR WHOSE ADVERTISING APPEARS IN THE SOFTWARE OR ON THE HUTONG GAMES WEBSITE;
+(II) ANY CHANGES WHICH LICENSOR MAY MAKE TO THE SOFTWARE, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE SOFTWARE (OR ANY FEATURES WITHIN THE SOFTWARE);
+(III) THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND OTHER COMMUNICATIONS DATA MAINTAINED OR TRANSMITTED BY OR THROUGH END-USER'S USE OF THE SOFTWARE;
+(IV) END-USER'S FAILURE TO PROVIDE HUTONG GAMES WITH ACCURATE ACCOUNT INFORMATION;
+9.3	NOTHING IN THE TERMS EXCLUDES THE LIABILITY FOR LICENSOR, ITS SUBSIDIARIES OR AFFILIATES FOR: (I) DEATH AND PERSONAL INJURY CAUSED BY NEGLIGENCE; ( II ) FRAUDULENT MISREPRESENTATION; OR (III) ANY OTHER LIABILITY WHICH CANNOT BE LIMITED BY APPLICABLE LAW.
+
+
+

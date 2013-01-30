@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{42E275B5-32C3-8375-7A05-B41C5725891C}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE;ENABLE_MICROPHONE;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;ENABLE_AUDIO_FMOD;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PHYSICS;ENABLE_TERRAIN;ENABLE_CACHING;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_CLOTH;ENABLE_MOVIES;ENABLE_AUDIO;ENABLE_WWW;ENABLE_SHADOWS;ENABLE_DUCK_TYPING;UNITY_4_0_1;UNITY_4_0;UNITY_STANDALONE_WIN;ENABLE_PROFILER;UNITY_EDITOR</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\DynamicElements_Effects\scripts\ParticleScale.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\ParticleWindow.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\PrefabGenerator.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\Raycast.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\activateWithDelay.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\destroyThisTimed.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\moveThis.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\moveThisAdvanced.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\rampDownParticle.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\rotateThis.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\scaleThisTimed.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_AntiTransRimShaderInOut.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_TransRimShaderFader.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_TransRimShaderInOut.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_TransRimShaderIrisator.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_UVScroller.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_animRandomizer.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_animSpeedRandomizer.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_destroyThisTimed.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_effectCaster.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_materialAlphaFader.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_materialColorRandomizer.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_moveThis.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_prefabGenerator.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_randoMMoveInBox.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_randomRotation.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_randomScale.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_rotateThis.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_stohasticArrowMovement.js" />
+     <Compile Include="Assets\ShurikenMagic\Scripts\SM_trailFade.js" />
+     <None Include="Assets\PlayMakerLicense.txt" />
+     <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
+     <None Include="Assets\PlayMakerReadme.txt" />
+     <None Include="Assets\DynamicElements_Effects\ScaleParticles.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\iTween\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
+     <None Include="Assets\ShurikenMagic\Shaders\SM_TransparentAntiRim.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
+     <None Include="Assets\DynamicElements_Effects\readme.txt" />
+     <None Include="Assets\NGUI\ReadMe (Important!).txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (HardClip).shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored Overlay.shader" />
+     <None Include="Assets\ShurikenMagic\Shaders\Illumin-VertexLit.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\ShurikenMagic\Shaders\SM_2sided_transparent.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
+     <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
+     <None Include="Assets\ShurikenMagic\Shaders\SM_TransparentRim.shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMaker">
+ <HintPath>Assets\PlayMaker\PlayMaker.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{A4456F43-573C-E35D-9381-63DE8CCCC0E0}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
